@@ -30,7 +30,7 @@ class AppDelegate: NSObject, NSApplicationDelegate {
         print("Hello")
         
         
-        
+    }
     
 
     func applicationWillTerminate(_ aNotification: Notification) {
