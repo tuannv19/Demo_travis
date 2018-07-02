@@ -2,4 +2,4 @@ language : swift
 xcode_project: Demo_travis/Demo_travis.xcodeproj # path to your xcodeproj folder
 xcode_scheme: Demo_travis
 osx_image: xcode9.4
-script: xcodebuild clean build -project Demo_travis/Demo_travis.xcodeproj -scheme Demo_travis
+script: xcodebuild clean build -project Demo_travis/Demo_travis.xcodeproj -scheme Demo_travis  -configuration Debug CODE_SIGN_IDENTITY='Mac Developer: Z7FK84HAK'
