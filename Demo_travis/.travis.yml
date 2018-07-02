@@ -1,3 +1,0 @@
-language : swift
-xcode_project: Demo_travis/Demo_travis.xcodeproj # path to your xcodeproj folder
-xcode_scheme: Demo_travis
