@@ -18,6 +18,10 @@ class AppDelegate: NSObject, NSApplicationDelegate {
         // Insert code here to initialize your application
         print("Hello")
         print("Hello")
+        print("Hello")
+        print("Hello")
+        print("Hello")
+        print("Hello")
     }
 
     func applicationWillTerminate(_ aNotification: Notification) {
