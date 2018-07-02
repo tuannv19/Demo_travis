@@ -28,7 +28,7 @@ class AppDelegate: NSObject, NSApplicationDelegate {
         print("Hello")
         print("Hello")
         print("Hello")
-        print("Hello")
+        
         
         
     }
